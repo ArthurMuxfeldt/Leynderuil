@@ -1,0 +1,29 @@
+<item>
+<name>Astral Convocation Katana</name>
+<type>Weapon</type>
+<rarity>Rare</rarity>
+<properties>
+<bonus>
+<attribute>Dexterity</attribute>
+<value>+1</value>
+</bonus>
+<bonus>
+<attribute>Wisdom</attribute>
+<value>+1</value>
+</bonus>
+<attack_bonus>+2</attack_bonus>
+<damage_bonus>+2</damage_bonus>
+</properties>
+<special_effects>
+<effect>
+<name>Destiny's Mark</name>
+<trigger>Hit a creature</trigger>
+<description> Leaves a mark on the creature. As a bonus action, you can use gravity to force the marked creature to make a Constitution Saving Throw. On failure, it is launched to the ground and its movement is reduced to 0. </description>
+</effect>
+<effect>
+<name>Concentration</name>
+<trigger>Holding with two hands</trigger>
+<description> Slows gravity around you, causing enemies to have disadvantage on attack rolls. </description>
+</effect>
+</special_effects>
+</item>
