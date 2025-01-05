@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
-	<info>
-		<name>Leynderul</name>
-		<description>Custom items and resources for D&D 5e.</description>
-		<author>Arthur Muxfeldt</author>
-		<update version="1.0.0">
-			<file name="Leynderul.index" url="https://raw.githubusercontent.com/ArthurMuxfeldt/Leynderuil/main/Leynderul/Leynderul.index"/>
-		</update>
-	</info>
-	<files>
-		<!-- Items -->
-		<file name="Astral_Convocation_Katana.xml" url="https://raw.githubusercontent.com/ArthurMuxfeldt/Leynderuil/main/Leynderul/Astral_Convocation_Katana.xml"/>
-		<file name="Kimono.xml" url="https://raw.githubusercontent.com/ArthurMuxfeldt/Leynderuil/main/Leynderul/Kimono.xml"/>
-	</files>
+   <info>
+      <name>Leynderul</name>
+      <description>Custom items and resources for D&D 5e.</description>
+      <author>Arthur Muxfeldt</author>
+      <update version="1.0.0">
+         <file name="Leynderul.index" url="https://raw.githubusercontent.com/ArthurMuxfeldt/Leynderuil/main/Leynderul/Leynderul.index"/>
+      </update>
+   </info>
+   <files>
+      <!-- Items -->
+      <file name="Astral_Convocation_Katana.xml" url="https://raw.githubusercontent.com/ArthurMuxfeldt/Leynderuil/main/Leynderul/Astral_Convocation_Katana.xml"/>
+      <file name="Kimono.xml" url="https://raw.githubusercontent.com/ArthurMuxfeldt/Leynderuil/main/Leynderul/Kimono.xml"/>
+   </files>
 </index>
