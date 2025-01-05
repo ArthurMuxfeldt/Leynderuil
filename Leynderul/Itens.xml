@@ -1,0 +1,42 @@
+<document>
+  <item>
+    <name>Kimono</name>
+    <type>Armor</type>
+    <armorType>Medium</armorType>
+    <armorClass>15 + Dexterity modifier (maximum 2)</armorClass>
+    <description>A medium armor providing balanced defense.</description>
+  </item>
+
+  <item>
+    <name>Kimono V2</name>
+    <type>Armor</type>
+    <armorType>Light</armorType>
+    <armorClass>Dexterity modifier</armorClass>
+    <description>A light armor offering agility and mobility.</description>
+  </item>
+
+  <item>
+    <name>Astral Convocation Katana</name>
+    <type>Weapon</type>
+    <weaponType>Martial Melee</weaponType>
+    <damage>3d8</damage>
+    <damageType>Slashing</damageType>
+    <bonus>
+      <attack>+2</attack>
+      <damage>+2</damage>
+      <abilityScore>
+        <dexterity>+1</dexterity>
+        <wisdom>+1</wisdom>
+      </abilityScore>
+    </bonus>
+    <description>
+      A magical katana imbued with astral power.
+      <br/>
+      When you hit a creature, you leave the passive: "Destiny's Mark".
+      <br/>
+      <b>Destiny's Mark:</b> When you can see a creature that you attacked before, you can use a bonus action to turn the gravity so heavy that the enemy must make a Constitution Saving Throw. On failure, the enemy is launched to the ground, reducing its movement speed to 0.
+      <br/>
+      <b>Concentration:</b> When you hold this Katana with two hands, it slows the gravity around you, imposing disadvantage on enemy attack rolls.
+    </description>
+  </item>
+</document>

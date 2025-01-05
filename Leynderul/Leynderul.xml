@@ -1,0 +1,9 @@
+<manifest>
+  <name>Leynderul</name>
+  <description>Custom items for the Leynderul setting.</description>
+  <author>Seu Nome</author>
+  <version>1.0</version>
+  <content>
+    <file>items.xml</file>
+  </content>
+</manifest>
