@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<index>
-  <info>
-    <name>Leynderul</name>
-    <description>Custom items and content for the Leynderul setting.</description>
-    <author>Seu Nome</author>
-    <update version="1.0"/>
-  </info>
-  <files>
-    <!-- Items -->
-    <file name="items.xml"/>
-  </files>
-</index>
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium>
+  <metadata>
+    <name>Leynderul Items</name>
+    <description>Custom items for D&D 5e.</description>
+    <author>Your Name</author>
+    <version>1.0</version>
+  </metadata>
+  <content>
+    <items>
+      <file>Medium_Armor.xml</file>
+      <file>Astral_Convocation_Katana.xml</file>
+    </items>
+  </content>
+</compendium>
