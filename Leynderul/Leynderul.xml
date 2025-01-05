@@ -1,9 +1,11 @@
-<manifest>
-  <name>Leynderul</name>
-  <description>Custom items for the Leynderul setting.</description>
-  <author>Seu Nome</author>
-  <version>1.0</version>
-  <content>
-    <file>items.xml</file>
-  </content>
-</manifest>
+<item>
+<name>Medium Armor</name>
+<type>Armor</type>
+<rarity>Common</rarity>
+<properties>
+<armor_class>
+<base>15</base>
+<bonus>Dexterity Modifier (Max 2)</bonus>
+</armor_class>
+</properties>
+</item>
